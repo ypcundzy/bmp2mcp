@@ -4,3 +4,9 @@ bmp2mcp:
 
 使用方法:
 ./bmp2mcp ./test.bmp  >>test.h
+
+使用脚本编译复数文件：
+./run_convert.sh input_directory output_directory
+
+input_directory: 输入文件文件夹
+output_directory: 输出文件文件夹
