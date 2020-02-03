@@ -1,0 +1,6 @@
+bmp2mcp:
+
+	可以简单将单色bmp文件转化为小屏幕使用的mcp格式的结构体
+
+使用方法:
+./bmp2mcp ./test.bmp  >>test.h
